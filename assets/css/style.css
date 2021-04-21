@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: white;
+  color: #d43076;
   text-decoration: none;
 }
 
 a:hover {
-  color: dodgerblue;
+  color: #dd5a92;
   text-decoration: none;
 }
 
@@ -508,10 +508,9 @@ section {
 }
 
 .about .image {
-    
-    background: url('../img/ClydeImages/MyFace.jpeg');
-    background-size: cover;
-    min-height: 400px;
+  background: url("../img/me.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 400px;
 }
 
 @media (max-width: 991px) {

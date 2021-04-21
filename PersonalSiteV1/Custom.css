@@ -1,2 +1,10 @@
 ﻿body {
 }
+#hero {
+    
+    background-image: url('assets/img/ClydeImages/greatshot.jpg');
+    background-position: center;
+    background-size: 50%;
+}
+
+

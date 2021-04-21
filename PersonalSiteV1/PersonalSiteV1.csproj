@@ -69,10 +69,20 @@
   <ItemGroup>
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\apple-touch-icon.png" />
-    <Content Include="assets\img\ClydeImages\MePic01.jpg" />
-    <Content Include="assets\img\ClydeImages\MePic02.jpg" />
-    <Content Include="assets\img\ClydeImages\MePic03.jpg" />
-    <Content Include="assets\img\ClydeImages\Snapchat-1083071367.jpg" />
+    <Content Include="assets\img\ClydeImages\cadensshot.jpg" />
+    <Content Include="assets\img\ClydeImages\camdean.jpg" />
+    <Content Include="assets\img\ClydeImages\DukeEyes.jpg" />
+    <Content Include="assets\img\ClydeImages\face.jpg" />
+    <Content Include="assets\img\ClydeImages\leather.jpg" />
+    <Content Include="assets\img\ClydeImages\greatshot.jpg" />
+    <Content Include="assets\img\ClydeImages\moon.jpg" />
+    <Content Include="assets\img\ClydeImages\MyFace.jpeg" />
+    <Content Include="assets\img\ClydeImages\pittys.jpg" />
+    <Content Include="assets\img\ClydeImages\planeride.jpg" />
+    <Content Include="assets\img\ClydeImages\RJdone.jpg" />
+    <Content Include="assets\img\ClydeImages\RJShocked.jpg" />
+    <Content Include="assets\img\ClydeImages\standing.jpg" />
+    <Content Include="assets\img\ClydeImages\truck.jpeg" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\hero-bg.jpg" />
     <Content Include="assets\img\me.jpg" />
