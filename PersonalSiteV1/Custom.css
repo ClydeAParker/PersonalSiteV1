@@ -5,6 +5,17 @@
     background-image: url('assets/img/ClydeImages/greatshot.jpg');
     background-position: center;
     background-size: 50%;
+    background-repeat: repeat-x;
+    width: 100%;
+    
 }
 
+.darkRed {
+    color: #640605;
+}
+
+#fontfix p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
 
